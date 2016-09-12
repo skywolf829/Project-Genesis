@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: d1162d06c27a46b4c9e227d653e4660d
+timeCreated: 1472412369
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armband
+    100002: cables
+    100004: Command_Aft
+    100006: Command_Forward
+    100008: Command_Mid
+    100010: Command_Rim
+    100012: Command_Rim1
+    100014: control-box
+    100016: default
+    100018: default_MeshPart0
+    100020: default_MeshPart1
+    100022: default_MeshPart2
+    100024: default_MeshPart3
+    100026: default_MeshPart4
+    100028: default_MeshPart5
+    100030: engine-bell
+    100032: engine-truss
+    100034: escape-tubes-gap
+    100036: fairing-collar
+    100038: faring-upper
+    100040: fating-lower
+    100042: Heat_Shield_Fron
+    100044: Heat_Shield_Mid
+    100046: Heat_Sield_Aft
+    100048: //RootNode
+    100050: metallic
+    100052: Nose_Bottom
+    100054: Nose_Top
+    100056: small_tank
+    100058: turbopump
+    400000: armband
+    400002: cables
+    400004: Command_Aft
+    400006: Command_Forward
+    400008: Command_Mid
+    400010: Command_Rim
+    400012: Command_Rim1
+    400014: control-box
+    400016: default
+    400018: default_MeshPart0
+    400020: default_MeshPart1
+    400022: default_MeshPart2
+    400024: default_MeshPart3
+    400026: default_MeshPart4
+    400028: default_MeshPart5
+    400030: engine-bell
+    400032: engine-truss
+    400034: escape-tubes-gap
+    400036: fairing-collar
+    400038: faring-upper
+    400040: fating-lower
+    400042: Heat_Shield_Fron
+    400044: Heat_Shield_Mid
+    400046: Heat_Sield_Aft
+    400048: //RootNode
+    400050: metallic
+    400052: Nose_Bottom
+    400054: Nose_Top
+    400056: small_tank
+    400058: turbopump
+    2300000: armband
+    2300002: cables
+    2300004: Command_Aft
+    2300006: Command_Forward
+    2300008: Command_Mid
+    2300010: Command_Rim
+    2300012: Command_Rim1
+    2300014: control-box
+    2300016: default_MeshPart0
+    2300018: default_MeshPart1
+    2300020: default_MeshPart2
+    2300022: default_MeshPart3
+    2300024: default_MeshPart4
+    2300026: default_MeshPart5
+    2300028: engine-bell
+    2300030: engine-truss
+    2300032: escape-tubes-gap
+    2300034: fairing-collar
+    2300036: faring-upper
+    2300038: fating-lower
+    2300040: Heat_Shield_Fron
+    2300042: Heat_Shield_Mid
+    2300044: Heat_Sield_Aft
+    2300046: metallic
+    2300048: Nose_Bottom
+    2300050: Nose_Top
+    2300052: small_tank
+    2300054: turbopump
+    3300000: armband
+    3300002: cables
+    3300004: Command_Aft
+    3300006: Command_Forward
+    3300008: Command_Mid
+    3300010: Command_Rim
+    3300012: Command_Rim1
+    3300014: control-box
+    3300016: default_MeshPart0
+    3300018: default_MeshPart1
+    3300020: default_MeshPart2
+    3300022: default_MeshPart3
+    3300024: default_MeshPart4
+    3300026: default_MeshPart5
+    3300028: engine-bell
+    3300030: engine-truss
+    3300032: escape-tubes-gap
+    3300034: fairing-collar
+    3300036: faring-upper
+    3300038: fating-lower
+    3300040: Heat_Shield_Fron
+    3300042: Heat_Shield_Mid
+    3300044: Heat_Sield_Aft
+    3300046: metallic
+    3300048: Nose_Bottom
+    3300050: Nose_Top
+    3300052: small_tank
+    3300054: turbopump
+    4300000: armband
+    4300002: cables
+    4300004: Command_Aft
+    4300006: Command_Forward
+    4300008: Command_Mid_MeshPart0
+    4300010: Command_Rim
+    4300012: Command_Rim1
+    4300014: control-box
+    4300016: default_MeshPart0
+    4300018: default_MeshPart1
+    4300020: default_MeshPart2
+    4300022: default_MeshPart3
+    4300024: default_MeshPart4
+    4300026: default_MeshPart5
+    4300028: engine-bell
+    4300030: engine-truss
+    4300032: escape-tubes-gap_MeshPart0
+    4300034: fairing-collar_MeshPart0
+    4300036: faring-upper_MeshPart0
+    4300038: fating-lower_MeshPart0
+    4300040: Heat_Shield_Fron
+    4300042: Heat_Shield_Mid
+    4300044: Heat_Sield_Aft
+    4300046: metallic
+    4300048: Nose_Bottom
+    4300050: Nose_Top
+    4300052: small_tank_MeshPart0
+    4300054: turbopump
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
